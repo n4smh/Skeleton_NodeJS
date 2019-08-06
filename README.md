@@ -15,6 +15,7 @@ MVC skeleton of NodeJS. Includes server creation, making backend API call, itera
  	Executes DemoScript.sh.
     
  * http://localhost:7001/apicall	<br/>
+ 	Makes API call with values passed in body.	<br/>
     	Body: <br/>
     	{ <br/>
 		"url": "\<URL\>",  <br/>
